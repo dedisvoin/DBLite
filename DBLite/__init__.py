@@ -18,12 +18,12 @@ Usage:
 
 Example:
     >>> import DBLite
-    DBLite init < v1.2 >
+    DBLite init < v1.5 >
 """
 
 from colorama import Fore
 
-__version__ = 1.2
+__version__ = 1.5
 
 def print_version():
     """
